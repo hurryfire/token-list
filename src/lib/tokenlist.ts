@@ -61,7 +61,7 @@ export const CLUSTER_SLUGS: { [id: string]: ENV } = {
 
 export class GitHubTokenListResolutionStrategy {
   repositories = [
-    'https://raw.githubusercontent.com/solana-labs/token-list/main/src/tokens/solana.tokenlist.json',
+    'https://raw.githubusercontent.com/hurryfire/token-list/main/src/tokens/solana.tokenlist.json',
   ];
 
   resolve = () => {
@@ -128,7 +128,7 @@ export class TokenListProvider {
   };
 
   resolve = async (
-    strategy: Strategy = Strategy.CDN
+    strategy: Strategy = Strategy.GitHub
   ): Promise<TokenListContainer> => {
     return new TokenListContainer(
       await TokenListProvider.strategies[strategy].resolve()
@@ -137,7 +137,7 @@ export class TokenListProvider {
 }
 
 export class TokenListContainer {
-  constructor(private tokenList: TokenInfo[]) {}
+  constructor(private tokenList: TokenInfo[]) { }
 
   filterByTag = (tag: string) => {
     return new TokenListContainer(
