@@ -1,11 +1,11 @@
 {
-  "name": "@solana/spl-token-registry",
-  "version": "0.2.178",
+  "name": "@hurryfire/spl-token-registry",
+  "version": "0.2.0",
   "description": "Solana Token Registry",
   "main": "dist/main/index.js",
   "typings": "dist/main/index.d.ts",
   "module": "dist/module/index.js",
-  "repository": "https://github.com/solana-labs/token-list",
+  "repository": "https://github.com/hurryfire/token-list",
   "license": "Apache",
   "keywords": [],
   "scripts": {
