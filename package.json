@@ -1,6 +1,6 @@
 {
   "name": "@hurryfire/spl-token-registry",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "description": "Solana Token Registry",
   "main": "dist/main/index.js",
   "typings": "dist/main/index.d.ts",
