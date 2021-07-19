@@ -7551,6 +7551,42 @@
       ]
     },
     {
+      "chainId": 103,
+      "address": "4k9s5D7b3LWQ3ByyGiFhRqRi47NjsrjEYrT8XWGyuiDW",
+      "symbol": "DOT",
+      "name": "DOT Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ybxMQpMgQhtsTLhvHZqk8uqao7kvoexY6e8JmCTqAB1/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "6nUL5U1EAgv8C3BdMrESCyTB3DgL7WVjbdUuD22BjqmA",
+      "symbol": "ETH",
+      "name": "ETH Test",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ybxMQpMgQhtsTLhvHZqk8uqao7kvoexY6e8JmCTqAB1/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "BTfGdC4Pj1htw5yDQH929a9ZdSkBTSjvDrVegdDTp388",
+      "symbol": "FIL",
+      "name": "FIL Test",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ybxMQpMgQhtsTLhvHZqk8uqao7kvoexY6e8JmCTqAB1/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "6uRJmzcMWxTYd6g8KZNzh5uKHTj1VmUxpikwo1n1a45t",
+      "symbol": "ADA",
+      "name": "ADA Test",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ybxMQpMgQhtsTLhvHZqk8uqao7kvoexY6e8JmCTqAB1/logo.png",
+      "tags": []
+    },
+    {
       "chainId": 101,
       "address": "3cXftQWJJEeoysZrhAEjpfCHe9tSKyhYG63xpbue8m3s",
       "symbol": "Kreechures",
