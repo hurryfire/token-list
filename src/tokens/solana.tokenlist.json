@@ -7562,8 +7562,8 @@
     {
       "chainId": 103,
       "address": "6nUL5U1EAgv8C3BdMrESCyTB3DgL7WVjbdUuD22BjqmA",
-      "symbol": "ETH",
-      "name": "ETH Test",
+      "symbol": "ETHK",
+      "name": "ETHK Test",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ybxMQpMgQhtsTLhvHZqk8uqao7kvoexY6e8JmCTqAB1/logo.png",
       "tags": []
@@ -7584,6 +7584,105 @@
       "name": "ADA Test",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6ybxMQpMgQhtsTLhvHZqk8uqao7kvoexY6e8JmCTqAB1/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "EpfpiUxuzq1J9Z4wjc6MSNdmw7u9Wn1WAwNjTsMW4L9e",
+      "symbol": "AAVE",
+      "name": "AAVE Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "ESuY1ancmW4N4E1qPX4kb5gmiLuKPX8jP5BgfuB4wHCj",
+      "symbol": "AKRO",
+      "name": "AKRO Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6WNVCuxCGJzNjmMZoKyhZJwvJ5tYpsLyAtagzYASqBoF/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "A2eTiujiRzirJPvaCtNccMkiTSKoD5SgiVD6n2DQTmsR",
+      "symbol": "ALEPH",
+      "name": "ALEPH Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CsZ5LZkDS7h9TDKjrbL7VAwQZ9nsRu8vJLhRYfmGaN8K/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "48mFWmYVsQsuxe7qw26iUFKmD916NFWL1jiVC9Ed9qJU",
+      "symbol": "BTC",
+      "name": "BTC Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "CDbaZZQNQt23Wq7F9maeG6bXhcCwraEwZQqu5eRkJNzu",
+      "symbol": "CEL",
+      "name": "CEL Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/DgHK9mfhMtUwwv54GChRrU54T2Em5cuszq2uMuen1ZVE/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "Fx55gn1M3uNkwnoXa3MA5vus9QdYrP1KifQoDnTmxJjn",
+      "symbol": "OXY",
+      "name": "OXY Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/z3dn17yLaGMKffVogeFHQ9zWVcXgqgf3PQnDsNs2g6M/logo.svg",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "9peXMdFvH6wfEJuNw24h6aFG7VTWpRPtkf6Vhb1um9s3",
+      "symbol": "ETH",
+      "name": "ETH Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "EqSqXXUxyBwAv3Srvixrzp7aVKgEoLgpdrXgk6AaBHyq",
+      "symbol": "LUNA",
+      "name": "LUNA Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "Da8A9pM6Sfz2Cxce2V6szHoXE6K3DNR7natCHW7P6XWU",
+      "symbol": "LINK",
+      "name": "LINK Test",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CWE8jPTUYhdCTZYWPTe1o5DFqfdjzWKc9WKz6rSjQUdG/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "884XYVwEX51J7g9gXcrn2NK75pwXSUnLK2HFd6aaxA8R",
+      "symbol": "RAY",
+      "name": "RAY Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/dK83wTVypEpa1pqiBbHY3MNuUnT3ADUZM4wk9VZXZEc/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 103,
+      "address": "E9tCeMVUPUGFDhUj9EcofNpkNCHbZLaSyS68kuXRN2vZ",
+      "symbol": "USDC",
+      "name": "USDC Test",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
       "tags": []
     },
     {
