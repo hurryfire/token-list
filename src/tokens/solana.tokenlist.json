@@ -7652,10 +7652,10 @@
     {
       "chainId": 103,
       "address": "EqSqXXUxyBwAv3Srvixrzp7aVKgEoLgpdrXgk6AaBHyq",
-      "symbol": "LUNA",
-      "name": "LUNA Test",
+      "symbol": "LUA",
+      "name": "LUA Test",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2Xf2yAXJfg82sWwdLUo2x9mZXy6JCdszdMZkcF1Hf4KV/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EqWCKXfs3x47uVosDpTRgFniThL9Y8iCztJaapxbEaVX/logo.png",
       "tags": []
     },
     {
